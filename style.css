@@ -1,0 +1,142 @@
+.frame-113,
+.frame-113 * {
+  box-sizing: border-box;
+}
+.frame-113 {
+  background: #ffffff;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+._3-1 {
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 16/9;
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1076px;
+  top: 59px;
+}
+.div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 96px;
+  letter-spacing: 0.3em;
+  font-weight: 800;
+  position: absolute;
+  left: 228px;
+  top: 407px;
+}
+.div3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 48px;
+  letter-spacing: 0.3em;
+  font-weight: 800;
+  position: absolute;
+  left: 228px;
+  top: 561px;
+}
+.div4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 48px;
+  letter-spacing: 0.3em;
+  font-weight: 800;
+  position: absolute;
+  left: 228px;
+  top: 329px;
+}
+.div5 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1307px;
+  top: 59px;
+}
+.div6 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1537px;
+  top: 59px;
+}
+.group-104 {
+  width: 1.69%;
+  height: 3.52%;
+  position: absolute;
+  right: 8.77%;
+  left: 89.55%;
+  bottom: 90.92%;
+  top: 5.56%;
+  overflow: visible;
+}
+.logo-2-1 {
+  width: 195.85px;
+  height: 77px;
+  position: absolute;
+  left: 208px;
+  top: 40px;
+  object-fit: cover;
+  aspect-ratio: 195.85/77;
+}
+.group-113 {
+  width: 94px;
+  height: 488px;
+  position: absolute;
+  left: 717px;
+  top: 657px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.show-now {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.3em;
+  font-weight: 800;
+  position: absolute;
+  right: -204.26%;
+  left: 28.72%;
+  width: 275.53%;
+  bottom: 16.6%;
+  top: 75.41%;
+  height: 7.99%;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.rectangle-7 {
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 5px;
+  width: 519.15%;
+  height: 19.26%;
+  position: absolute;
+  right: -419.15%;
+  left: 0%;
+  bottom: -19.26%;
+  top: 100%;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
